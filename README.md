@@ -18,7 +18,7 @@
 ## 前置作業與準備
 
 - **硬體需求：**   
-   - 確認磁碟空間充足，建議 Windows 分割區至少預留 64GB。依使用設備為主。
+   - 確認磁碟空間充足，建議 Windows 分割區至少預留 64GB。依使用設備而定。
 
 - **取得 Windows 安裝檔案：**  
    - 下載 [Windows 10](https://www.microsoft.com/zh-tw/software-download/windows10) 安裝媒體，並確認 `.ios` 檔案已下載完畢。 
